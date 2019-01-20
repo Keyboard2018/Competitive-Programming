@@ -4,4 +4,4 @@ This Repository aim to my Training for Competitive Programming contest and incre
 
 
 
-![Planing](https://i.ibb.co/vhJQGLy/Planing-PNG.png)
+![Planing](https://i.ibb.co/ZShYPc4/Planing-PNG.png)
